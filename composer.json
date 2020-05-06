@@ -1,0 +1,11 @@
+{
+    "require": {
+        "tightenco/collect": "^7.9"
+    },
+    "autoload": {
+        "files": ["src/ranker.php"]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.1"
+    }
+}
